@@ -1,8 +1,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![](https://komarev.com/ghpvc/?username=shahradelahi)
-
 <h1 align="center">Hi 👋, I'm ABDULLAH ARAFAT(Raz)</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 <h4 align="center">Founder, Director, CEO at MTR-BRAND</h4>
