@@ -32,7 +32,7 @@ Skills: TailwindCss / BOOTSTRAP / REACT / JS / HTML / CSS
 </br>
 
 
-<video src="7710243-uhd_3840_2160_30fps.mp4"></video>
+<video src="https://videos.pexels.com/video-files/7710243/7710243-uhd_2560_1440_30fps.mp4"></video>
 
 <!-- <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/MTR-BRAND" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MTR-BRAND" height="30" width="40" /></a>
