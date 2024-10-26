@@ -1,4 +1,4 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![image](https://github.com/user-attachments/assets/ad14873e-bc15-42ff-9a9c-a14fff79a3e4)![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h1 align="center">Hi 👋, I'm ABDULLAH ARAFAT(Raz)</h1>
@@ -29,10 +29,6 @@ Skills: TailwindCss / BOOTSTRAP / REACT / JS / HTML / CSS
 <p align="center">
 <a href="[https://fb.com/tutul181](https://www.facebook.com/profile.php?id=61555228408681)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 
-</br>
-
-
-<video src="https://videos.pexels.com/video-files/7710243/7710243-uhd_2560_1440_30fps.mp4"></video>
 
 <!-- <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/MTR-BRAND" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MTR-BRAND" height="30" width="40" /></a>
