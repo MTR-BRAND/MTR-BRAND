@@ -1,4 +1,4 @@
-[github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![image](https://github.com/user-attachments/assets/ad14873e-bc15-42ff-9a9c-a14fff79a3e4)![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h1 align="center">Hi 👋, I'm ABDULLAH ARAFAT(Raz)</h1>
